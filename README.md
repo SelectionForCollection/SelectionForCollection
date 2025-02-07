@@ -1,6 +1,14 @@
-### Hi there 👋
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](https://www.oracle.com/database/)
+[![plsql](https://img.shields.io/badge/PLSQL-F80000)](https://www.oracle.com/nl/database/technologies/appdev/plsql.html)
+[![Informatica](https://img.shields.io/badge/Informatica-gray?logo=informatica)](https://docs.informatica.com/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
+[![APEX](https://custom-icon-badges.demolab.com/badge/APEX-F80000?logo=oracle&logoColor=fff)](https://apex.oracle.com/en/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelectionForCollection&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelectionForCollection&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelectionForCollection&show_icons=true&theme=synthwave&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **SelectionForCollection/SelectionForCollection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
