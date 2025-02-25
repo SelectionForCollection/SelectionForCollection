@@ -7,7 +7,7 @@
 [![APEX](https://custom-icon-badges.demolab.com/badge/APEX-F80000?logo=oracle&logoColor=fff)](https://apex.oracle.com/en/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelectionForCollection&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelectionForCollection&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelectionForCollection&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SelectionForCollection/SelectionForCollection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
